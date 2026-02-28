@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shruthireddy-1505/feb_2026/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/shruthireddy-1505/feb_2026/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shruthireddy-1505/feb_2026/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shruthireddy-1505/feb_2026/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shruthireddy-1505/feb_2026/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shruthireddy-1505/feb_2026/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shruthireddy-1505/feb_2026/tree/master/0856-score-of-parentheses) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shruthireddy-1505/feb_2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/shruthireddy-1505/feb_2026/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shruthireddy-1505/feb_2026/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shruthireddy-1505/feb_2026/tree/master/0682-baseball-game) |
 ## Design
 |  |
@@ -59,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shruthireddy-1505/feb_2026/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shruthireddy-1505/feb_2026/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
