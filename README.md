@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/shruthireddy-1505/feb_2026/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/shruthireddy-1505/feb_2026/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/shruthireddy-1505/feb_2026/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/shruthireddy-1505/feb_2026/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruthireddy-1505/feb_2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/shruthireddy-1505/feb_2026/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/shruthireddy-1505/feb_2026/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shruthireddy-1505/feb_2026/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/shruthireddy-1505/feb_2026/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruthireddy-1505/feb_2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
