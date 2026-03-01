@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shruthireddy-1505/feb_2026/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shruthireddy-1505/feb_2026/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruthireddy-1505/feb_2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shruthireddy-1505/feb_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shruthireddy-1505/feb_2026/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shruthireddy-1505/feb_2026/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shruthireddy-1505/feb_2026/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shruthireddy-1505/feb_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -65,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shruthireddy-1505/feb_2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shruthireddy-1505/feb_2026/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shruthireddy-1505/feb_2026/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shruthireddy-1505/feb_2026/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
